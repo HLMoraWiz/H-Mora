@@ -8,8 +8,7 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java)](https://www.java.com/)
-
+[![Java](https://img.shields.io/badge/Java-%23FF5733.svg?style=for-the-badge)](https://www.java.com/)
 
 
 📫 How to reach me:
