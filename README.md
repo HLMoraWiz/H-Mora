@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I’m @H-Mora</h1>
+<h1 align="center"> Hi, I’m Henry Mora</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 
@@ -7,11 +7,6 @@
 - 🔭 I’m interested in learning stuff every day
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on anything!
-
-
-
-
-
 
 
 
