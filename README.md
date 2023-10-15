@@ -1,21 +1,16 @@
+<h1 align="center"> Hi, I’m @H-Mora</h1>
+<h3 align="center">A passionate frontend and backend developer</h3>
 
-<h1 align="center">![@H-mora (3)]</h1>
-<h3 align="center">A passionate frontend and backend developer from Costa Rica</h3>
 
 
-<!--
-**H-Mora/H-Mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m interested in learning stuff every day
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on anything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
 
 
 
