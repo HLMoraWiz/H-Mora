@@ -1,5 +1,6 @@
 ### Hi, I’m Henry Mora
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"/>
 
 - 🔭 I’m interested in learning stuff every day
 - 🌱 I’m currently learning Angular
