@@ -1,7 +1,4 @@
-<h1 align="center"> Hi,I’m Henry Mora</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
-
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Henry Mora
 
 
 - 🔭 I’m interested in learning stuff every day
