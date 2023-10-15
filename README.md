@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on anything!
 
-
+<br>
 
 📫 How to reach me:
   <a href="https://www.linkedin.com/in/henrymora/">
