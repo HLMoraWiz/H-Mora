@@ -11,7 +11,9 @@
 <br>
 
 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/henrymora/">
+
+
+  <a href="https://www.linkedin.com/in/henrymora">
     <img align="left" alt="Henry Mora | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:ggblitz2530@gmail">
